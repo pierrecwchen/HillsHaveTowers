@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Test>
+    <Level level="1"/>
+    <Wave wave="1" currentWave="0"/>
+    <Villager villager="20"/>
+    <Towers>
+        <Tower TowerType="0" XPosition="1" YPosition="1"/>
+    </Towers>
+    <Resources>
+        <Resource ResourceType="0" XPosition="2" YPosition="2" Amount="5"/>
+    </Resources>
+</Test>

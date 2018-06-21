@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData3>
+    <Level Level="1"/>
+    <Wave Wave="1" CurrentWave="3"/>
+    <Villager Villager="20" Stolen="0"/>
+    <Currency Coin="10080" Wood="99" Stone="99" Iron="99"/>
+    <Player XPosition="227.367" YPosition="20.205" ZPosition="389.485"/>
+    <Towers>
+        <Tower TowerType="5" XPosition="10" YPosition="12" Level="1"/>
+        <Tower TowerType="1" XPosition="11" YPosition="14" Level="1"/>
+        <Tower TowerType="0" XPosition="10" YPosition="14" Level="1"/>
+        <Tower TowerType="0" XPosition="12" YPosition="15" Level="1"/>
+    </Towers>
+    <Resources>
+        <Resource ResourceType="1" XPosition="3" YPosition="1" Amount="5"/>
+        <Resource ResourceType="1" XPosition="5" YPosition="1" Amount="5"/>
+        <Resource ResourceType="1" XPosition="15" YPosition="2" Amount="5"/>
+        <Resource ResourceType="1" XPosition="2" YPosition="3" Amount="5"/>
+        <Resource ResourceType="0" XPosition="3" YPosition="3" Amount="5"/>
+        <Resource ResourceType="0" XPosition="4" YPosition="3" Amount="5"/>
+        <Resource ResourceType="0" XPosition="5" YPosition="3" Amount="5"/>
+        <Resource ResourceType="0" XPosition="6" YPosition="3" Amount="5"/>
+        <Resource ResourceType="0" XPosition="7" YPosition="3" Amount="5"/>
+        <Resource ResourceType="1" XPosition="14" YPosition="3" Amount="5"/>
+        <Resource ResourceType="1" XPosition="15" YPosition="3" Amount="5"/>
+        <Resource ResourceType="0" XPosition="19" YPosition="3" Amount="5"/>
+        <Resource ResourceType="0" XPosition="4" YPosition="4" Amount="5"/>
+        <Resource ResourceType="0" XPosition="5" YPosition="4" Amount="5"/>
+        <Resource ResourceType="0" XPosition="6" YPosition="4" Amount="5"/>
+        <Resource ResourceType="0" XPosition="7" YPosition="4" Amount="5"/>
+        <Resource ResourceType="0" XPosition="8" YPosition="4" Amount="5"/>
+        <Resource ResourceType="0" XPosition="9" YPosition="4" Amount="5"/>
+        <Resource ResourceType="0" XPosition="19" YPosition="4" Amount="5"/>
+        <Resource ResourceType="0" XPosition="19" YPosition="5" Amount="5"/>
+        <Resource ResourceType="0" XPosition="6" YPosition="6" Amount="5"/>
+        <Resource ResourceType="0" XPosition="8" YPosition="6" Amount="5"/>
+        <Resource ResourceType="0" XPosition="12" YPosition="6" Amount="5"/>
+        <Resource ResourceType="0" XPosition="14" YPosition="6" Amount="5"/>
+        <Resource ResourceType="0" XPosition="19" YPosition="6" Amount="5"/>
+        <Resource ResourceType="0" XPosition="0" YPosition="7" Amount="5"/>
+        <Resource ResourceType="0" XPosition="3" YPosition="7" Amount="5"/>
+        <Resource ResourceType="1" XPosition="7" YPosition="7" Amount="5"/>
+        <Resource ResourceType="2" XPosition="13" YPosition="7" Amount="5"/>
+        <Resource ResourceType="0" XPosition="0" YPosition="8" Amount="5"/>
+        <Resource ResourceType="0" XPosition="0" YPosition="9" Amount="5"/>
+        <Resource ResourceType="2" XPosition="4" YPosition="9" Amount="5"/>
+        <Resource ResourceType="1" XPosition="6" YPosition="9" Amount="5"/>
+        <Resource ResourceType="1" XPosition="8" YPosition="9" Amount="5"/>
+        <Resource ResourceType="2" XPosition="13" YPosition="9" Amount="5"/>
+        <Resource ResourceType="2" XPosition="17" YPosition="9" Amount="5"/>
+        <Resource ResourceType="0" XPosition="0" YPosition="10" Amount="5"/>
+        <Resource ResourceType="0" XPosition="0" YPosition="11" Amount="5"/>
+        <Resource ResourceType="0" XPosition="3" YPosition="11" Amount="5"/>
+        <Resource ResourceType="1" XPosition="7" YPosition="11" Amount="5"/>
+        <Resource ResourceType="2" XPosition="13" YPosition="11" Amount="5"/>
+        <Resource ResourceType="0" XPosition="1" YPosition="12" Amount="5"/>
+        <Resource ResourceType="0" XPosition="6" YPosition="12" Amount="5"/>
+        <Resource ResourceType="0" XPosition="8" YPosition="12" Amount="5"/>
+        <Resource ResourceType="0" XPosition="12" YPosition="12" Amount="5"/>
+        <Resource ResourceType="0" XPosition="14" YPosition="12" Amount="5"/>
+        <Resource ResourceType="0" XPosition="19" YPosition="12" Amount="5"/>
+        <Resource ResourceType="0" XPosition="2" YPosition="13" Amount="5"/>
+        <Resource ResourceType="1" XPosition="16" YPosition="13" Amount="5"/>
+        <Resource ResourceType="0" XPosition="3" YPosition="14" Amount="5"/>
+        <Resource ResourceType="0" XPosition="4" YPosition="14" Amount="5"/>
+        <Resource ResourceType="0" XPosition="5" YPosition="14" Amount="5"/>
+        <Resource ResourceType="0" XPosition="6" YPosition="14" Amount="5"/>
+        <Resource ResourceType="0" XPosition="7" YPosition="14" Amount="5"/>
+        <Resource ResourceType="1" XPosition="12" YPosition="14" Amount="5"/>
+        <Resource ResourceType="1" XPosition="18" YPosition="14" Amount="5"/>
+        <Resource ResourceType="2" XPosition="15" YPosition="15" Amount="5"/>
+        <Resource ResourceType="1" XPosition="0" YPosition="17" Amount="5"/>
+        <Resource ResourceType="2" XPosition="0" YPosition="18" Amount="5"/>
+        <Resource ResourceType="1" XPosition="2" YPosition="18" Amount="5"/>
+        <Resource ResourceType="1" XPosition="3" YPosition="18" Amount="5"/>
+        <Resource ResourceType="2" XPosition="0" YPosition="19" Amount="5"/>
+        <Resource ResourceType="2" XPosition="1" YPosition="19" Amount="5"/>
+        <Resource ResourceType="1" XPosition="5" YPosition="19" Amount="5"/>
+    </Resources>
+</GameData3>

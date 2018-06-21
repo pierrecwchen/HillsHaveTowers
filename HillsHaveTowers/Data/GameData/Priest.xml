@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Enemy>
+	<Stats Health = "5000" Carry = "0" DmgReduction = "0" Speed = "1"/>
+	<Sound ScreamPitch = "1.0f" HasArmour = "false"/>
+	<Loot Coin = "50" Wood = "0" Stone = "0" Iron = "0"/>
+	<SelectionCircle Size = "9.0f" Offset = "0.0f"/>
+	<Model Name = "soldier.mesh"  Scale = "0.7f" HeightOffset = "-23.0f"/>
+	<Animation Blend = "true" Speed = "1.5f" Play = "Walk" Loop = "true"/>
+	<BoundingBox ScaleX  =  "1.0f"  ScaleY = "1.5f"   ScaleZ =  "1.0f" 
+	             OffsetX = "-5.0f" OffsetY = "-7.0f" OffsetZ = "-5.0f"/>
+	<State = "WalkState"/>
+</Enemy>
