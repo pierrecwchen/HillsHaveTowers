@@ -4,6 +4,8 @@ This repository is a demonstratiom about a game called "HillsHaveTowers" which i
 
 ![Dependency Chart](HillsHaveTowersDocs/483_Project_Dependency_Chart.jpg)
 
+You can find the [technical document](HillsHaveTowersDocs/483 Project Technical Document.docx), [game design document](HillsHaveTowersDocs/Game Design Doc.docx), and other [related documents](HillsHaveTowersDocs/) by click the links.
+
 ## The task assigned to me and codes (in this repository) I created are:
 
 
@@ -81,6 +83,7 @@ This repository is a demonstratiom about a game called "HillsHaveTowers" which i
 
 **Events**
 
+![Event Example](HillsHaveTowersDocs/EventExample.jpg)
 
 [EnemyManger - adding EventManager to it](HillsHaveTowers/HillsHaveTowers/EnemyManager.cpp)
         
