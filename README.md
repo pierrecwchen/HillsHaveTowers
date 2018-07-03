@@ -1,23 +1,23 @@
 # HillsHaveTowers
 
-This repository is a demonstratiom about a game called "HillsHaveTowers" which is created by me and other three teammates. The project was made in between 2012 and 2013 under windows 7 with visual studio 2010. This repository only consists of partial game project code and related documents. There are more stuffs I did in the project but they are either too big to upload or just concepts.
+This repository is a demonstratiom about a game called "HillsHaveTowers" which is created by me and other three teammates. The project was made in between 2012 and 2013 under windows 7 with visual studio 2010. This repository only consists of partial game project code and related documents (list below). There are more stuffs I did in the project but they are either too big to upload or just concepts.
 
 The task assigned to me and codes (in this repository) I created are:
     
-    - User Interface
+User Interface
     
-        BaseWindow
-        EnemyBar
-        InGameHUD
-        LoadDataMenu
-        LoadingScreen
-        MainMenu
-        OptionMenu
-        PauseMenu
-        SaveDataMenu
-        TileMenu
-        TowerMenu
-        UIManager
+[BaseWindow](HillsHaveTowers/HillsHaveTowers/BaseWindow.cpp)
+EnemyBar
+InGameHUD
+LoadDataMenu
+LoadingScreen
+MainMenu
+OptionMenu
+PauseMenu
+SaveDataMenu
+TileMenu
+TowerMenu
+UIManager
         
     - Animation(Based on Ogre3D engine)
     
