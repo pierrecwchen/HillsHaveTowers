@@ -4,7 +4,7 @@ This repository is a demonstratiom about a game called "HillsHaveTowers" which i
 
 ![Dependency Chart](HillsHaveTowersDocs/483_Project_Dependency_Chart.jpg)
 
-You can find the [technical document](HillsHaveTowersDocs/483 Project Technical Document.docx), [game design document](HillsHaveTowersDocs/Game Design Doc.docx), and other [related documents](HillsHaveTowersDocs/) by click the links.
+You can find the [technical document](HillsHaveTowersDocs/483_Project_Technical_Document.docx), [game design document](HillsHaveTowersDocs/Game_Design_Doc.docx), [project task list](HillsHaveTowersDocs/483_Project_Task_List), and other [related documents](HillsHaveTowersDocs/).
 
 ## The task assigned to me and codes (in this repository) I created are:
 
