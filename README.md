@@ -96,6 +96,6 @@ This repository is a demonstratiom about a game called "HillsHaveTowers" which i
 
 [Recipient.cpp](HillsHaveTowers/HillsHaveTowers/Recipient.cpp)
         
-[ResourseManager - adding EventManager and SelectableManager to it](HillsHaveTowers/HillsHaveTowers/ResourseManager.cpp)
+[ResourceManager - adding EventManager and SelectableManager to it](HillsHaveTowers/HillsHaveTowers/ResourceManager.cpp)
        
 [VillagerManager - adding EventManager and SelectableManager to it](HillsHaveTowers/HillsHaveTowers/VillagerManager.cpp)
